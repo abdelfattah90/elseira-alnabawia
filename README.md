@@ -4,7 +4,15 @@
 
 # تطبيق السيرة النبوية
 
-## - متجر جوجل بلاي: https://play.google.com/store/apps/details?id=com.seira.seiranabawayaa
+## - متجر جوجل بلاي:
+
+<div dir="ltr">
+
+### https://play.google.com/store/apps/details?id=com.seira.seiranabawayaa
+
+</div>
+
+<br />
 
 <br />
 
