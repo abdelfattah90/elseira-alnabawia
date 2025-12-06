@@ -11,9 +11,6 @@
 ### https://play.google.com/store/apps/details?id=com.seira.seiranabawayaa
 
 </div>
-
-<br />
-
 <br />
 
 ## - **نسخة الويب:**
@@ -28,15 +25,15 @@
 
 ## 📸 لقطات من التطبيق
 
-<img src="https://play-lh.googleusercontent.com/hD6FQ-e51X1lxlA4FlEiSmgp7aw5nsiXMEzxG-ljh1VAVp6hoJnKejlXnMJmc7J_kO9jZ892-1rsSfrONvm-fw=w5120-h2880-rw" width="600" />
+<img height="500" src="https://play-lh.googleusercontent.com/hD6FQ-e51X1lxlA4FlEiSmgp7aw5nsiXMEzxG-ljh1VAVp6hoJnKejlXnMJmc7J_kO9jZ892-1rsSfrONvm-fw=w5120-h2880-rw" width="300" />
 
-<img src="https://play-lh.googleusercontent.com/fXKHBMUqGtiYSolr2O834Gy6DMEzuzLToZdHcuG6GBNvoNvRDimuVehXR-zKeyTgd_pqJEwgKTE1ayv0z28lzAg=w5120-h2880-rw" width="600" />
+<img height="500" src="https://play-lh.googleusercontent.com/fXKHBMUqGtiYSolr2O834Gy6DMEzuzLToZdHcuG6GBNvoNvRDimuVehXR-zKeyTgd_pqJEwgKTE1ayv0z28lzAg=w5120-h2880-rw" width="300" />
 
-<img src="https://play-lh.googleusercontent.com/frCb0pETtMcVNpIa9zfIy5PT-h0cPf1Opg4PDDCCnjpoKjyY11Ml2GcFYpuG4XX7C53LHjtQIOVswJ2XkHNNrw=w5120-h2880-rw" width="600" />
+<img height="500" src="https://play-lh.googleusercontent.com/frCb0pETtMcVNpIa9zfIy5PT-h0cPf1Opg4PDDCCnjpoKjyY11Ml2GcFYpuG4XX7C53LHjtQIOVswJ2XkHNNrw=w5120-h2880-rw" width="300" />
 
-<img src="https://play-lh.googleusercontent.com/7q1ybG8HqgRV7ddUgoorkoY5iVQsA4FVfsynutEQLbG3fTHGCiRl0E7Pu4Jd48vxsdj3-XqMGPeMk5XJxuRQNg=w5120-h2880-rw" width="600" />
+<img height="500" src="https://play-lh.googleusercontent.com/7q1ybG8HqgRV7ddUgoorkoY5iVQsA4FVfsynutEQLbG3fTHGCiRl0E7Pu4Jd48vxsdj3-XqMGPeMk5XJxuRQNg=w5120-h2880-rw" width="300" />
 
-<img src="https://play-lh.googleusercontent.com/Erwy99DUnC9xUP8Y4_Lam7PxIufXZxNxsXXVCUERINwfCZs_H0rr4g7Lks8kyRrwt3ytCEiZQMeCbVjp7zmn=w5120-h2880-rw" width="600" />
+<img height="500" src="https://play-lh.googleusercontent.com/Erwy99DUnC9xUP8Y4_Lam7PxIufXZxNxsXXVCUERINwfCZs_H0rr4g7Lks8kyRrwt3ytCEiZQMeCbVjp7zmn=w5120-h2880-rw" width="300" />
 
 ---
 
