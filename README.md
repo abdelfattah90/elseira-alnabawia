@@ -6,19 +6,11 @@
 
 ## - متجر جوجل بلاي:
 
-<div dir="ltr">
-
 ### https://play.google.com/store/apps/details?id=com.seira.seiranabawayaa
-
-</div>
 
 <br />
 
-## - نسخة الويب:
-
-<div dir="ltr">
-
-### https://elseira.vercel.app
+## - نسخة الويب: https://elseira.vercel.app
 
 ---
 
