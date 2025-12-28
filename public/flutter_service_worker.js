@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "99ac8012ddff9df2823af7638fb84ac4",
-"assets/AssetManifest.bin.json": "d4198a97ac15b8179187d79635996137",
+const RESOURCES = {"assets/AssetManifest.bin": "7f9b44f558a657b8359461e35a834ed4",
+"assets/AssetManifest.bin.json": "b7381f4b0f0ccaec0068053c6a611dc3",
 "assets/assets/data/caliph1/chapter1.json": "6a9c0dc7e719c53c65940e35ca27c37c",
 "assets/assets/data/caliph1/chapter10.json": "29a23d5f10ec627411a4a8dc48fb9d65",
 "assets/assets/data/caliph1/chapter11.json": "0d3d27fd4b5d6fc510a4ffb46ba83e5d",
@@ -96,6 +96,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "99ac8012ddff9df2823af7638fb84ac4
 "assets/assets/images/hadith/sholat-wake-up.png": "e801a06644a9bb3e02c8282ce04c8838",
 "assets/assets/images/hadith/sonnan.png": "455d9d38ddf7f1d38fb813e7bf60f1a2",
 "assets/assets/images/hadith/sujud.png": "adea065b65b966be8dcbd902c0f20e87",
+"assets/assets/images/hadith/test.png": "aec75873155c6ffc801de7d22bf1e760",
 "assets/assets/images/hadith/walking-man.png": "5f1d300f5396e3cbbe35fd6835a4ffa1",
 "assets/assets/images/hadith/witr.png": "e2560b75e14b864fcdc45ef5925cc739",
 "assets/assets/images/hadith/woman_praying.png": "70fd9403152cf6b2c7e0c44f11b9c75b",
@@ -143,14 +144,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "99ac8012ddff9df2823af7638fb84ac4
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "50962679b1792642e95944855a626648",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "9660e8b9c35162f5c5605b27f117556e",
+"flutter_bootstrap.js": "082c2a32575338775111e6c09a5e7644",
 "icons/Icon-192.png": "244df704cbbd206bbb3090d1cbaae1fe",
 "icons/Icon-512.png": "3123210297ec557de55d4bbf4654f6e1",
 "icons/Icon-maskable-192.png": "244df704cbbd206bbb3090d1cbaae1fe",
 "icons/Icon-maskable-512.png": "3123210297ec557de55d4bbf4654f6e1",
 "index.html": "e8f7bd86b71f0c319c66ccfa508c7e76",
 "/": "e8f7bd86b71f0c319c66ccfa508c7e76",
-"main.dart.js": "8db5ccbe2106f5ba3352b706e84dd5e8",
+"main.dart.js": "ae9abfc4d07f9ac139129ca76effe2ae",
 "manifest.json": "e599b71775a3d3827a5f20d9aac42ed2",
 "version.json": "26cea99c6e2de4b48e66403801b0b231"};
 // The application shell files that are downloaded before a service worker can
