@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "d5a90aae4788ffb52c39f68ff1347716",
-"assets/AssetManifest.bin.json": "3b77cab5edb83998c613adcbb935157c",
+const RESOURCES = {"assets/AssetManifest.bin": "c5d89504fea47ccc0a74a83cbe46fa3d",
+"assets/AssetManifest.bin.json": "cd6d45ae16d10a8d26ed333c6411108a",
 "assets/assets/data/caliph1/chapter1.json": "6a9c0dc7e719c53c65940e35ca27c37c",
 "assets/assets/data/caliph1/chapter10.json": "29a23d5f10ec627411a4a8dc48fb9d65",
 "assets/assets/data/caliph1/chapter11.json": "0d3d27fd4b5d6fc510a4ffb46ba83e5d",
@@ -32,6 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d5a90aae4788ffb52c39f68ff1347716
 "assets/assets/icon/icon.png": "c9078d83d6089988e6abe8b56e727cae",
 "assets/assets/images/azkar/cloud.png": "42547b0ba113e052d868623f79cd7d3d",
 "assets/assets/images/azkar/cloud_blue.png": "3b4ccbd9fd8cab9978416654c839142f",
+"assets/assets/images/azkar/grave.png": "61b22f27e14df64ef4c3d49be6e09f70",
 "assets/assets/images/azkar/masjid_nabawi.png": "b19de734a97332e69014185e6255af78",
 "assets/assets/images/azkar/moon.png": "ca4e61554f43ca62c69bb722d18f7b3a",
 "assets/assets/images/azkar/moon2.png": "c9826ebd53b8cc56be130fca156060fe",
@@ -44,6 +45,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d5a90aae4788ffb52c39f68ff1347716
 "assets/assets/images/azkar/praying.png": "58be7b155ac4c4cebaae555ebb6a4f55",
 "assets/assets/images/azkar/quran.png": "2e1fb315a20a5f8d3992d3331c1949e4",
 "assets/assets/images/azkar/tasbih-green.png": "03728a4bf637e18c105d574eda521475",
+"assets/assets/images/azkar/tasbih.png": "4f069ae7ebfddab29ca9c6c58de7f9cb",
 "assets/assets/images/azkar/treasure-chest.png": "a5560e1d72a01a574a0e4451b558e80b",
 "assets/assets/images/bookmark1.png": "9f4d6108ca8b797cfb90fac96c2148c2",
 "assets/assets/images/bookmark2.png": "e4b85ecd271540c36b87233ac70e00a3",
@@ -129,7 +131,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d5a90aae4788ffb52c39f68ff1347716
 "assets/assets/images/settings.png": "47ab9927edb3d0491fb2f2ba94cc6423",
 "assets/assets/images/telfaznet.png": "c16bcbebc13086f200b7fd01b697ae4a",
 "assets/FontManifest.json": "16ea50159a983b71181d2e960abc5bd5",
-"assets/fonts/MaterialIcons-Regular.otf": "c527e81cb46657ef66d4b0ca9f8a8bf5",
+"assets/fonts/MaterialIcons-Regular.otf": "68114a6a733ee4415f7924cd49a971af",
 "assets/NOTICES": "91d22b33e8613335111ebb9930fb0a5e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "fb9cf14ed37ebdc128ad2943864d9631",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -148,14 +150,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "d5a90aae4788ffb52c39f68ff1347716
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "50962679b1792642e95944855a626648",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "a2ede4af01ef85cf57a36c7b48aa4f20",
+"flutter_bootstrap.js": "613ed39d92dc0725a666770b1ee22e0b",
 "icons/Icon-192.png": "244df704cbbd206bbb3090d1cbaae1fe",
 "icons/Icon-512.png": "3123210297ec557de55d4bbf4654f6e1",
 "icons/Icon-maskable-192.png": "244df704cbbd206bbb3090d1cbaae1fe",
 "icons/Icon-maskable-512.png": "3123210297ec557de55d4bbf4654f6e1",
 "index.html": "e8f7bd86b71f0c319c66ccfa508c7e76",
 "/": "e8f7bd86b71f0c319c66ccfa508c7e76",
-"main.dart.js": "4233b368a0a834ef7d0e585ebe3eeb1a",
+"main.dart.js": "f113cadc3ca18dfc3ef66cc8b5c864f0",
 "manifest.json": "e599b71775a3d3827a5f20d9aac42ed2",
 "version.json": "26cea99c6e2de4b48e66403801b0b231"};
 // The application shell files that are downloaded before a service worker can
