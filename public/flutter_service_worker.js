@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c5d89504fea47ccc0a74a83cbe46fa3d",
-"assets/AssetManifest.bin.json": "cd6d45ae16d10a8d26ed333c6411108a",
+const RESOURCES = {"assets/AssetManifest.bin": "c4202c410892ecfe556f96fd218541d8",
+"assets/AssetManifest.bin.json": "2890d6ec065ae024354989d0f9ba1a56",
 "assets/assets/data/caliph1/chapter1.json": "6a9c0dc7e719c53c65940e35ca27c37c",
 "assets/assets/data/caliph1/chapter10.json": "29a23d5f10ec627411a4a8dc48fb9d65",
 "assets/assets/data/caliph1/chapter11.json": "0d3d27fd4b5d6fc510a4ffb46ba83e5d",
@@ -47,6 +47,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c5d89504fea47ccc0a74a83cbe46fa3d
 "assets/assets/images/azkar/tasbih-green.png": "03728a4bf637e18c105d574eda521475",
 "assets/assets/images/azkar/tasbih.png": "4f069ae7ebfddab29ca9c6c58de7f9cb",
 "assets/assets/images/azkar/treasure-chest.png": "a5560e1d72a01a574a0e4451b558e80b",
+"assets/assets/images/bookcover.jpg": "54edcd1fd88a82a16f74028d04cb4b79",
 "assets/assets/images/bookmark1.png": "9f4d6108ca8b797cfb90fac96c2148c2",
 "assets/assets/images/bookmark2.png": "e4b85ecd271540c36b87233ac70e00a3",
 "assets/assets/images/bukhari.png": "064ac17c80200a98c171240e66708e1a",
@@ -120,6 +121,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c5d89504fea47ccc0a74a83cbe46fa3d
 "assets/assets/images/notebook2.png": "3d41b66f41ae912dbff67472f7b5cfa6",
 "assets/assets/images/open-book.png": "6f5330b70fcffc34275e52aecc6dc368",
 "assets/assets/images/open-book2.png": "00b9ee3672f6d74c8e964e0b2ccda2ee",
+"assets/assets/images/open-book3.png": "8ab91e2bd133afef46b29b6d074d9eec",
 "assets/assets/images/prophet_mohamed.png": "52c56756715896d929863cb0c01ff6be",
 "assets/assets/images/question.png": "c8d4d372bb0b6534f2fe598ec49ffd28",
 "assets/assets/images/quran.png": "54e56b39bc79df76a5395159cc70e969",
@@ -131,7 +133,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c5d89504fea47ccc0a74a83cbe46fa3d
 "assets/assets/images/settings.png": "47ab9927edb3d0491fb2f2ba94cc6423",
 "assets/assets/images/telfaznet.png": "c16bcbebc13086f200b7fd01b697ae4a",
 "assets/FontManifest.json": "16ea50159a983b71181d2e960abc5bd5",
-"assets/fonts/MaterialIcons-Regular.otf": "68114a6a733ee4415f7924cd49a971af",
+"assets/fonts/MaterialIcons-Regular.otf": "60c025e267266539eddd891ee18ddb99",
 "assets/NOTICES": "91d22b33e8613335111ebb9930fb0a5e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "fb9cf14ed37ebdc128ad2943864d9631",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -150,14 +152,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "c5d89504fea47ccc0a74a83cbe46fa3d
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "50962679b1792642e95944855a626648",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "fdcb674bef3e47d9492dc44a27f9b237",
+"flutter_bootstrap.js": "2e7f3e99ecf91f12769818e98c672946",
 "icons/Icon-192.png": "244df704cbbd206bbb3090d1cbaae1fe",
 "icons/Icon-512.png": "3123210297ec557de55d4bbf4654f6e1",
 "icons/Icon-maskable-192.png": "244df704cbbd206bbb3090d1cbaae1fe",
 "icons/Icon-maskable-512.png": "3123210297ec557de55d4bbf4654f6e1",
 "index.html": "e8f7bd86b71f0c319c66ccfa508c7e76",
 "/": "e8f7bd86b71f0c319c66ccfa508c7e76",
-"main.dart.js": "729bff2b0a2516b1eae547c67c49608e",
+"main.dart.js": "a37b9cde2bd51e2f39f7752392aba746",
 "manifest.json": "e599b71775a3d3827a5f20d9aac42ed2",
 "version.json": "26cea99c6e2de4b48e66403801b0b231"};
 // The application shell files that are downloaded before a service worker can
