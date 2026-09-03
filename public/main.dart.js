@@ -92237,7 +92237,7 @@ D(a){var s=null
 return A.nW(B.b78,s,A.jb(!0,A.fe(B.bB,A.b([A.az(s,s,B.m,t.d.a(A.E(a).c.i(0,A.aq(t.P))).a,s,s,s,s,s,s,s,s,s),B.bef,new A.Ny(s,$.aEW(),s)],t.p),B.N,B.bj),!0,B.al,!0,!0),!0)}}
 A.VW.prototype={
 D(a){var s=null
-return A.aCq(0,new A.Ri(new A.arD(0.15+t.d.a(A.E(a).c.i(0,A.aq(t.P))).a.zY()*0.28),B.Me,A.e8("assets/images/islamic-decorations.jpg",B.ib,s,s,s,s,B.ig,!0,s,s),s))}}
+return A.aCq(0,new A.Ri(new A.arD(0.25+t.d.a(A.E(a).c.i(0,A.aq(t.P))).a.zY()*0.28),B.Me,A.e8("assets/images/islamic-decorations.jpg",B.ib,s,s,s,s,B.ig,!0,s,s),s))}}
 A.arD.prototype={
 $1(a){var s=this.a
 return new A.k3(B.ib,B.ia,B.cw,A.b([B.o.aZ(s*0.5),B.o.aZ(s),B.o.aZ(s),B.o.aZ(s*0.4)],t.t_),B.aF0,null).apW(a)},
